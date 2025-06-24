@@ -1,6 +1,7 @@
 # TheLostOne
 Actividad 3 Desarrollo 2
 
+Itch.io : https://elizavetarb.itch.io/the-lost-one
 
 Enlace a ONE DRIVE del UNIR debido al error constante de error de conexión que parece que se debe a que mi proyecto pesa demasiado. Disculpe las molestias: 
 
